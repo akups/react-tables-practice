@@ -1,1 +1,1 @@
-# react_tables_practice
+# react-tables-practice
